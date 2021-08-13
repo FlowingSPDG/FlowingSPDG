@@ -1,7 +1,7 @@
-## Shugo "FlowingSPDG" Kawamura
-Twitter : [**@fluozh**](http://twitter.com/fluozh) / [**@FlowingSPDG**](http://twitter.com/FlowingSPDG)  
-BLOG : [**FL技術**](https://flowing.tokyo)  
-Hello! I'm japanese programmer, esports event organizer and broadcast engineer, and sometimes observer.  
+## Shugo "effel" Kawamura
+Twitter : [**@xolefl**](http://twitter.com/xolefl) / [**@FlowingSPDG**](http://twitter.com/FlowingSPDG)  
+BLOG : [**FL TECH**](https://flowing.tokyo)  
+Hello! I'm japanese programmer, esports event organizer, broadcast expert, and sometimes observer.  
 I'm student of Digital Hollywood University([DHU](https://www.dhw.ac.jp/)).  
 I've been working for mobile-game API development, CS:GO league server management, automated OBS streaming etc.  
 Feel free to contact me in Twitter or Mail!(You can talk to me in both of English/Japanese).
