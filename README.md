@@ -1,5 +1,5 @@
-## Shugo "effel" Kawamura
-Twitter : [**@xolefl**](http://twitter.com/xolefl) / [**@FlowingSPDG**](http://twitter.com/FlowingSPDG)  
+## Shugo "effel" Kawamura a.k.a Nil Hiiragi(柊木にる)
+Twitter : [**@rjzefl**](http://twitter.com/ejzefl) / [**@FlowingSPDG**](http://twitter.com/FlowingSPDG)  
 BLOG : [**FL TECH**](https://flowing.tokyo)  
 Hello! I'm japanese programmer, esports event organizer, broadcast expert, and sometimes observer.  
 I'm student of Digital Hollywood University([DHU](https://www.dhw.ac.jp/)).  
