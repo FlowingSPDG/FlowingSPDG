@@ -1,4 +1,4 @@
-## Shugo "effel" Kawamura / Nil Hiiragi(柊木にる)
+## Nil Hiiragi(柊木にる)
 Twitter : [**@rjzefl**](http://twitter.com/ejzefl) / [**@HiiragiNil**](http://twitter.com/HiiragiNil)  
 BLOG : [**FL TECH**](https://flowing.tokyo)  
 Hello! I'm japanese programmer, esports event organizer, broadcast expert, and sometimes observer.  
