@@ -1,5 +1,5 @@
 ## Nil Hiiragi(柊木にる)
-Twitter : [**@rjzefl**](http://twitter.com/ejzefl) / [**@HiiragiNil**](http://twitter.com/HiiragiNil)  
+Twitter : [**@HiiragiNil**](http://twitter.com/HiiragiNil) / [**@301nilH**](http://twitter.com/301nilH)  
 BLOG : [**FL TECH**](https://flowing.tokyo)  
 Hello! I'm japanese programmer, esports event organizer, broadcast expert, and sometimes observer.  
 I'm student of Digital Hollywood University([DHU](https://www.dhw.ac.jp/)).  
