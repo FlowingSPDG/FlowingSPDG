@@ -1,7 +1,6 @@
 ## Shugo Kawamura(河村 柊吾)
-Twitter : [**@FlowingSPDG**](http://twitter.com/FlowingSPDG) / [**@_eyfl**](http://twitter.com/_eyfl)  
-BLOG : [**FL TECH**](https://flowing.tokyo)  
-Hello! I'm japanese programmer, esports event organizer, broadcast expert, and sometimes observer.  
+Twitter : [**@FlowingSPDG**](http://twitter.com/FlowingSPDG) / [**@x_eyfl**](http://twitter.com/x_eyfl)  
+Hello! I'm Japanese programmer(Go/React/Vue/GCP/Firebase), esports event organizer, broadcast engineer(OBS/vMix/NewTek), and sometimes observer.  
 I've been working for mobile-game API development, CS:GO league server management, automated OBS streaming etc.  
 Feel free to contact me in Twitter or Mail!(You can talk to me in both of English/Japanese).
 
