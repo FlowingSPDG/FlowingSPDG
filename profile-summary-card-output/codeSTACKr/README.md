@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/FlowingSPDG/FlowingSPDG/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
-```
-
-    
