@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/FlowingSPDG/FlowingSPDG/main/profile-summary-card-output/radical/4-productive-time.svg)
+```
+
+    
