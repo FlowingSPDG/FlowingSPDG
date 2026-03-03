@@ -1,47 +1,61 @@
-## Hello! 👋
-![](https://komarev.com/ghpvc/?username=FlowingSPDG)  
-Freelancer based in Tokyo/Japan.
+# Hi, I'm FlowingSPDG 👋
+### Streaming Tool Developer | Freelancer
 
-Feel free to contact me in X or email!(You can talk to me in both of English/Japanese).
+![](https://komarev.com/ghpvc/?username=FlowingSPDG&color=blue)  
+**Tokyo-based Freelancer** dedicated to bridging the gap between low-level hardware and high-end studio workflows.
 
-## Contact
-[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/190716720250355712)  
+---
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=arduino,aws,gcp,rust,go,react,nextjs,vue,raspberrypi,supabase,tauri,ts,vscode)](https://skillicons.dev)
+## 💡 What I Do
+I have a deep passion for crafting **production-grade streaming support tools** that stand up to the demands of live studio environments. My current focus includes:
 
-## SPDG
-~~SUPER PRETTY DENNOU GIRL!!~~  
-![tumblr_n3kdyxJ7kD1tudxtro1_500](https://github.com/user-attachments/assets/15c9a430-8597-419c-b4b9-58309fdd3d24)
+* **Embedded Systems:** Reliable hardware control using Rust/Embassy/Raspberry Pi/RP2040.
+* **IP Control:** vMix IP control solutions using TCP API.
+* **Studio Utilities:** High-performance support tools built with tauri.
+* **Full-stack Development:** Robust backend systems (Go/Rust) and reactive UIs (React/TS).
 
-## 実績
-- 2020
-  - [vmix-utility](https://github.com/FlowingSPDG/vmix-utility) 開発
-    - 採用例: 「ブレイキングダウン」「VCT(VALORANT CHAMPIONS TOUR/VALORANT CHALLENGERS JAPAN)」「ALGS(Apex Legends Champion Series)」など
-  - PUBG Mobile Championship 公式配信HUD UIシステム開発・実装・運用
-  　- スコア集計処理も含む
-- 2021
-  - [gotv-go-plus](https://github.com/FlowingSPDG/gotv-plus-go) 開発
-    - 採用例: CS:GO 及びCS2の世界大会で広く採用: PGL Major Krakow, BLAST Majorなど。
-  - OBS自動配信・スイッチング・広告管理システム開発・実装・運用
-  - ALGS(Apex Legends Global Series) HUD UIシステム開発・実装・運用
-- 2023
-  - ALGS(Apex Legends Global Series) HUDシステム開発・実装・運用
-  - K社(匿名) 業務委託として参画　フルスタックエンジニアとして開発を担当(Go/React) 終了済み
-- 2024
-  - プロスピA チャンピオンシップ スコア集計システム開発・実装・運用
-  - V社(匿名) 正社員として参画　フルスタックエンジニアとして開発を担当(Go/React) 退職済み
-- 2025
-  - S社 業務委託として参画　リファクタリングの担当(Rust/Go/TypeScript)
-  - B社 業務委託として参画　バックエンド開発の担当(Go/TypeScript) 終了済み
-  - N社　業務委託として参画　バックエンド開発・OSS開発の担当(Go) 終了済み
-- 2026
+---
 
+## 🏆 Featured Experience & Projects
+My tools have been battle-tested in world-class eSports tournaments and broadcasts.
 
+### 🎥 Broadcast & Streaming
+- **[vmix-utility](https://github.com/Incomplete-Outputs-Lab/vmix-utility)**
+  - Trusted by: *VCT (VALORANT Champions Tour)*, *ALGS*, and more.
+- **[gotv-plus-go](https://github.com/FlowingSPDG/gotv-plus-go)**
+  - Widely used in CS:GO/CS2 Major tournaments: *PGL Major Stockholm/Antwerp*, *BLAST Major*, etc.
+- **HUD UI Systems**
+  - Designed and operated HUD/Scoreboard systems for *ALGS (Apex Legends Global Series)* and *PUBG Mobile Championship*.
 
-非公開につき掲載していない案件もあります。ご容赦ください
+### 💻 Software Engineering
+- **2024-2025:** Backend & OSS development at multiple tech companies (Go/Rust/TypeScript).
+- **2024:** Score aggregation system for *Prospi-A Championship*.
+- **2023:** Full-stack development for major game companies (Go/React).
 
-## etc...
+---
+
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=rust,go,ts,react,nextjs,tauri,arduino,raspberrypi,aws,gcp,supabase,vscode)](https://skillicons.dev)
+
+---
+
+## 📬 Contact
+Feel free to reach out for project inquiries or technical discussions! (English / Japanese OK)
+
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/190716720250355712)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FlowingSPDG)
+
+---
+
+## 📊 Stats & Personality
+<details>
+<summary><b>View GitHub Stats</b></summary>
+
 [![](https://raw.githubusercontent.com/FlowingSPDG/FlowingSPDG/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://raw.githubusercontent.com/FlowingSPDG/FlowingSPDG/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FlowingSPDG/FlowingSPDG/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://raw.githubusercontent.com/FlowingSPDG/FlowingSPDG/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</details>
+
+### SPDG
+~~SUPER PRETTY DENNOU GIRL!!~~  
+![tumblr_n3kdyxJ7kD1tudxtro1_500](https://github.com/user-attachments/assets/15c9a430-8597-419c-b4b9-58309fdd3d24)
