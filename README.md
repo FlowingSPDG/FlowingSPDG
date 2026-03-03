@@ -1,12 +1,11 @@
 ## Hello! 👋
 ![](https://komarev.com/ghpvc/?username=FlowingSPDG)  
-Freelancer based in Tokyo/Japan & Toronto/Canada.
+Freelancer based in Tokyo/Japan.
 
 Feel free to contact me in X or email!(You can talk to me in both of English/Japanese).
 
 ## Contact
-[![](https://skillicons.dev/icons?i=discord)]()  
-@flowingspdg
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/190716720250355712)  
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=arduino,aws,gcp,rust,go,react,nextjs,vue,raspberrypi,supabase,tauri,ts,vscode)](https://skillicons.dev)
@@ -35,7 +34,10 @@ Feel free to contact me in X or email!(You can talk to me in both of English/Jap
 - 2025
   - S社 業務委託として参画　リファクタリングの担当(Rust/Go/TypeScript)
   - B社 業務委託として参画　バックエンド開発の担当(Go/TypeScript) 終了済み
-  - N社　業務委託として参画　バックエンド開発・OSS開発の担当(Go)
+  - N社　業務委託として参画　バックエンド開発・OSS開発の担当(Go) 終了済み
+- 2026
+
+
 
 非公開につき掲載していない案件もあります。ご容赦ください
 
