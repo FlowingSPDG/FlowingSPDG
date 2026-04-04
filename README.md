@@ -29,9 +29,7 @@ My tools have been battle-tested in world-class eSports tournaments and broadcas
 - **[gotv-plus-go](https://github.com/FlowingSPDG/gotv-plus-go)**
   - Widely used in CS:GO/CS2 Major tournaments: *PGL Major Stockholm/Antwerp*, *BLAST Major*, etc.
 - **HUD UI Systems**
-  - Designed and operated HUD graphic systems for *Apex Legends Global Series),
-  - * *PUBG Mobile Championship*,
-  - * and *ProSpi-A*.
+  - Designed and operated HUD graphic systems for *Apex Legends Global Series)*, *PUBG Mobile Championship*, and *ProSpi-A*.
 
 ### 💻 Software Engineering
 - **2024-2025:** Backend & OSS development at multiple tech companies (Go/Rust/TypeScript).
