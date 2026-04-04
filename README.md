@@ -1,18 +1,22 @@
 # Hi, I'm FlowingSPDG 👋
-### Streaming Tool Developer | Freelancer
+### Broadcast Tool Developer | Freelancer
 
 ![](https://komarev.com/ghpvc/?username=FlowingSPDG&color=blue)  
-**Tokyo-based Freelancer** dedicated to bridging the gap between low-level hardware and high-end studio workflows.
+**Tokyo-based Freelancer** dedicated to bridging the gap between low-level hardware and high-end studio workflows.  
+Currently I'm working for [MikanseiLaboratory](https://github.com/MikanseiLaboratory).
+
+Flowing(ふろー)といいます。 東京近郊で放送・配信プロダクション向けツールやハードウェアの制作や開発をオコやっているフリーランスのプログラマーです。  
+現在[未完成成果物研究所](https://github.com/MikanseiLaboratory)というコミュニティのオーナー・開発者として研究活動に従事しています。
 
 ---
 
-## 💡 What I Do
-I have a deep passion for crafting **production-grade streaming support tools** that stand up to the demands of live studio environments. My current focus includes:
+## 💡 What I Do 
+I have a deep passion for crafting support tools for broadcast productions that stand up to the demands of live studio environments.  My current focus includes:
 
-* **Embedded Systems:** Reliable hardware control using Rust/Embassy/Raspberry Pi/RP2040.
-* **IP Control:** vMix IP control solutions using TCP API.
-* **Studio Utilities:** High-performance support tools built with tauri.
-* **Full-stack Development:** Robust backend systems (Go/Rust) and reactive UIs (React/TS).
+* **Embedded Hardwares:** Reliable hardware and firmwares including Rist/Embassy, Raspberry Pi/RP2040.
+* **IP Control:** vMix control solutions using HTTP/TCP API.
+* **Studio Utilities:** High-performance and reliable production support tools.
+* **Full-stack Development:** Robust backend systems (Go/Rust) and reactive UIs (React/TypeScript).
 
 ---
 
@@ -20,12 +24,14 @@ I have a deep passion for crafting **production-grade streaming support tools** 
 My tools have been battle-tested in world-class eSports tournaments and broadcasts.
 
 ### 🎥 Broadcast & Streaming
-- **[vmix-utility](https://github.com/Incomplete-Outputs-Lab/vmix-utility)**
-  - Trusted by: *VCT (VALORANT Champions Tour)*, *ALGS*, and more.
+- **[vmix-utility](https://github.com/MikanseiLaboratory/vmix-utility)**
+  - Trusted by: *VALORANT Champions Tour Japan*, *Apex Legends Global Series*, and more.
 - **[gotv-plus-go](https://github.com/FlowingSPDG/gotv-plus-go)**
   - Widely used in CS:GO/CS2 Major tournaments: *PGL Major Stockholm/Antwerp*, *BLAST Major*, etc.
 - **HUD UI Systems**
-  - Designed and operated HUD/Scoreboard systems for *ALGS (Apex Legends Global Series)* and *PUBG Mobile Championship*.
+  - Designed and operated HUD graphic systems for *Apex Legends Global Series),
+  - * *PUBG Mobile Championship*,
+  - * and *ProSpi-A*.
 
 ### 💻 Software Engineering
 - **2024-2025:** Backend & OSS development at multiple tech companies (Go/Rust/TypeScript).
