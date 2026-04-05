@@ -5,7 +5,7 @@
 **Tokyo-based Freelancer** dedicated to bridging the gap between low-level hardware and high-end studio workflows.  
 Currently I'm working for [MikanseiLaboratory](https://github.com/MikanseiLaboratory).
 
-Flowing(ふろー)といいます。 東京近郊で放送・配信プロダクション向けツールやハードウェアの制作や開発をオコやっているフリーランスのプログラマーです。  
+Flowing(ふろー)といいます。 東京近郊で放送・配信プロダクション向けツールやハードウェアの制作や開発を行っているフリーランスのプログラマーです。  
 現在[未完成成果物研究所](https://github.com/MikanseiLaboratory)というコミュニティのオーナー・開発者として研究活動に従事しています。
 
 ---
