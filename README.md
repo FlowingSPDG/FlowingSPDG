@@ -13,8 +13,8 @@ Flowing(ふろー)といいます。 東京近郊で放送・配信プロダク�
 ## 💡 What I Do 
 I have a deep passion for crafting support tools for broadcast productions that stand up to the demands of live studio environments.  My current focus includes:
 
-* **Embedded Hardwares:** Reliable hardware and firmwares including Rust/Embassy, Raspberry Pi/RP2040.
-* **IP Control:** vMix control solutions using HTTP/TCP API.
+* **Embedded Hardwares:** Reliable hardware and firmwares including Rust/Embassy, Raspberry Pi/RP2040 or STM32.
+* **IP Control:** Control Studio equipments such as vMix, TriCaster, Panasonic Kairos using their API.
 * **Studio Utilities:** High-performance and reliable production support tools.
 * **Full-stack Development:** Robust backend systems (Go/Rust) and reactive UIs (React/TypeScript).
 
