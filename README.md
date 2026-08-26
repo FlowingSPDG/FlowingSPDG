@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=FlowingSPDG&color=blue)  
 **Tokyo-based Freelancer** dedicated to bridging the gap between low-level hardware and high-end studio workflows.  
-Currently I'm working for [MikanseiLaboratory](https://github.com/MikanseiLaboratory).
+Founder/Lead Engineer of [MikanseiLaboratory](https://github.com/MikanseiLaboratory) Broadcast/Streaming Research & Development community.
 
 Flowing(ふろー)といいます。 東京近郊で放送・配信プロダクション向けツールやハードウェアの制作や開発を行っているフリーランスのプログラマーです。  
 現在[未完成成果物研究所](https://github.com/MikanseiLaboratory)というコミュニティのオーナー・開発者として研究活動に従事しています。
@@ -30,9 +30,11 @@ My tools have been battle-tested in world-class eSports tournaments and broadcas
   - Widely used in CS:GO/CS2 Major tournaments: *PGL Major Stockholm/Antwerp*, *BLAST Major*, etc.
 - **HUD UI Systems**
   - Designed and operated HUD graphic systems for *Apex Legends Global Series)*, *PUBG Mobile Championship*, and *ProSpi-A*.
+- **[OMT Tools](https://github.com/MikanseiLaboratory/omt-tools)**
+  - OMT(OpenMediaTransport) Test suite
 
 ### 💻 Software Engineering
-- **2026:** Founded Mikansei Laboratory as a owner.
+- **2026:** Desktop application developer for multiple production companies.
 - **2024-2025:** Backend & OSS development at multiple tech companies (Go/Rust/TypeScript).
 - **2024:** Score aggregation system for *Prospi-A Championship*.
 - **2023:** Full-stack development for major game companies (Go/React).
@@ -40,7 +42,7 @@ My tools have been battle-tested in world-class eSports tournaments and broadcas
 ---
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=rust,go,ts,react,nextjs,tauri,arduino,raspberrypi,aws,gcp,supabase,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,ts,react,nextjs,tauri,arduino,raspberrypi,aws,gcp,supabase,cursor)](https://skillicons.dev)
 
 ---
 
