@@ -24,6 +24,9 @@ I have a deep passion for crafting support tools for broadcast productions that 
 My tools have been battle-tested in world-class eSports tournaments and broadcasts.
 
 ### 🎥 Broadcast & Streaming
+
+- **[eiviz](https://github.com/MikanseiLaboratory/eiviz)**
+  - Experimental vision mixing software. Unlimited M/E, cross-platform(Windows+macOS) with WGPU acceleration.
 - **[vmix-utility](https://github.com/MikanseiLaboratory/vmix-utility)**
   - Trusted by: *VALORANT Champions Tour Japan*, *Apex Legends Global Series*, and more.
 - **[gotv-plus-go](https://github.com/FlowingSPDG/gotv-plus-go)**
