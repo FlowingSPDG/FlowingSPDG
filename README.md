@@ -26,15 +26,15 @@ My tools have been battle-tested in world-class eSports tournaments and broadcas
 ### 🎥 Broadcast & Streaming
 
 - **[eiviz](https://github.com/MikanseiLaboratory/eiviz)**
-  - Experimental vision mixing software. Unlimited M/E, cross-platform(Windows+macOS) with WGPU acceleration.
+  - Experimental vision mixing software. Unlimited M/E, cross-platform(Windows+macOS+Linux) with WGPU acceleration.
 - **[vmix-utility](https://github.com/MikanseiLaboratory/vmix-utility)**
   - Trusted by: *VALORANT Champions Tour Japan*, *Apex Legends Global Series*, and more.
 - **[gotv-plus-go](https://github.com/FlowingSPDG/gotv-plus-go)**
   - Widely used in CS:GO/CS2 Major tournaments: *PGL Major Stockholm/Antwerp*, *BLAST Major*, etc.
 - **HUD UI Systems**
   - Designed and operated HUD graphic systems for *Apex Legends Global Series)*, *PUBG Mobile Championship*, and *ProSpi-A*.
-- **[OMT Tools](https://github.com/MikanseiLaboratory/omt-tools)**
-  - OMT(OpenMediaTransport) Test suite
+- **[OMT Community Tools](https://github.com/MikanseiLaboratory/omt-community-tools)**
+  - OMT(OpenMediaTransport) Community test suite
 
 ### 💻 Software Engineering
 - **2026:** Desktop application developer for multiple production companies.
